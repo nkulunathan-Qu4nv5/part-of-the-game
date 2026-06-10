@@ -21,9 +21,7 @@ The application utilizes an intuitive architecture that captures the essence of 
 The interface is designed to be lightweight and fast, eliminating the "blank page" syndrome. It guides users through a quick reflection on the match highlights to ensure the final output is punchy, relevant, and authentic.
 
 ![View 1](screenshots/Capture%20d'écran%202026-05-13%20153813.png)
-
 ![View 2](screenshots/Capture%20d'écran%202026-05-13%20150330.png)
-
 ![View 3](screenshots/Capture%20d'écran%202026-05-13%20150255.png)
 
 ---
