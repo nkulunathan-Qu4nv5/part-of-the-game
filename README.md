@@ -1,11 +1,9 @@
-<img src="imag1.jpg" width="100%" alt="Cover Image">
-
 # Part of the Game: The Ultimate Fan Content Creator
 
 ### The Idea
 **Part of the Game** is a creative tool built to bring football statistics to life. I wanted to turn boring, robotic match results into fun, energetic, and shareable posts. By playing with different prompt structures, I created an app that instantly generates content that actually sounds like a real, passionate fan wrote it. 
 
-<img src="imag3.jpg" width="700" alt="How it Works">
+<img src="imag1.jpg" width="100%" alt="Cover Image">
 
 ### Why I Built This
 Have you ever noticed how AI-generated sports summaries usually sound like dry press releases? I wanted to change that. I built this tool because I wanted to prove that AI can capture the true emotion of football fandom. It’s not just about saving time—it’s about skipping the "blank page" phase and jumping straight into sharing the hype with your community.
